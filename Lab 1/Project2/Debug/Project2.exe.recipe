@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+<<<<<<< HEAD
+      <FullPath>C:\Users\Rino\Desktop\Laboratory-work-master\Lab 1\Debug\Project2.exe</FullPath>
+=======
+      <FullPath>C:\Users\timsa\source\repos\Lab 1\Debug\Project2.exe</FullPath>
+>>>>>>> 191555bcd27b17144c77f6b0c4d332b6efed22ef
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
